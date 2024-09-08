@@ -23,4 +23,4 @@
 
 ![WhatsApp Image 2024-09-08 at 18 40 04_3b7b980b](https://github.com/user-attachments/assets/60ee40a6-ef19-44ee-ab48-1a0eb275f491)
 
-## "A pesar de que los juegos de Kirby no son conocidos por su dificultad, la verdadera diversión radica en la inmersión que ofrecen. Los detalles como la música, el arte y las animaciones son lo que realmente me atrapan. Siempre que veo los fondos de los juegos de Kirby en la GBA, me invade una profunda nostalgia y un deseo de poder estar en esos hermosos paisajes. Sin duda, Kirby es mi personaje favorito de las mascotas de Nintendo."
+## "A pesar de que los juegos de Kirby no son conocidos por su dificultad, la verdadera diversión radica en la inmersión que ofrecen. Los detalles como la música, el arte y las animaciones son lo que realmente me atrapan. Siempre que veo los fondos de los juegos de Kirby en el DS, me invade una profunda nostalgia y un deseo de poder estar en esos hermosos paisajes. Sin duda, Kirby es mi personaje favorito de las mascotas de Nintendo."
