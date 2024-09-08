@@ -5,8 +5,7 @@
 
 # Parte III: Preparación del Terreno
 
-## La creacion del terreno consiste de multiples pasos. Primero comence insertando el terreno en el proyecto. Esto se hace mediante la carpeta de Game Objects de Unity. Una vez insertado, ajuste las dimensiones
-del terreno segun los criterios de la actividad. Este es el resultado:
+## La creacion del terreno consiste de multiples pasos. Primero comence insertando el terreno en el proyecto. Esto se hace mediante la carpeta de Game Objects de Unity. Una vez insertado, ajuste las dimensiones del terreno segun los criterios de la actividad. Este es el resultado:
 ![Screenshot (352)](https://github.com/user-attachments/assets/c17b02cc-8052-480b-b2ff-0363568e75b8)
 
 # Parte IV: Colonización de Terrenos
