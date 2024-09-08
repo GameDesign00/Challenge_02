@@ -7,7 +7,7 @@
 
 ## La creación del terreno consiste en múltiples pasos. Primero comencé decidiendo qué parte del mapa de Puerto Rico me interesaba simular. Opté por elegir la siguiente área:
 ![image](https://github.com/user-attachments/assets/101a173a-56fb-4c6f-8174-1e1003472b63)
-## Una vez escogida, procedí a insertar el terreno en el proyecto utilizando la carpeta de Game Objects de Unity. Una vez insertado, ajusté las dimensiones del terreno según los criterios de la actividad. Este es el resultado:
+## Una vez escogida, procedí a insertar el terreno en el proyecto utilizando la carpeta de Game Objects de Unity. Una vez insertado, ajusté las dimensiones y resolución del terreno según los criterios de la actividad. Este es el resultado:
 ![image](https://github.com/user-attachments/assets/9aa25a97-2ae5-4ecf-9678-900be108496e)
 ## Utilizando el pincel #3 de tamaño 50 con una opacidad de 70, empecé haciendo una silueta de la parte principal del terreno. Una vez trazada, tomé el pincel #8 para añadir un poco de rigidez a los alrededores de la parte principal. Debido a que estamos intentando simular un terreno real, este detalle hará que el terreno en Unity se vea más realista.
 ![image](https://github.com/user-attachments/assets/6d2738de-66c2-4706-856c-b7411158fae7)
