@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/9aa25a97-2ae5-4ecf-9678-900be108496e)
 ## Utilizando el pincel #3 de tamaño 50 con una opacidad de 70, empecé haciendo una silueta de la parte principal del terreno. Una vez trazada, tomé el pincel #8 para añadir un poco de rigidez a los alrededores de la parte principal. Debido a que estamos intentando simular un terreno real, este detalle hará que el terreno en Unity se vea más realista.
 ![image](https://github.com/user-attachments/assets/6d2738de-66c2-4706-856c-b7411158fae7)
-## Para darle más detalle, los pinceles #8 y #9 me resultaron muy útiles. Estos me permitieron añadir un toque de caos al terreno, de manera que parezca natural sin perder la forma de la imagen anterior.
+## Para darle más detalle, agrandé el área principal y utilicé los pinceles #8 y #9 para añadir un toque de caos al terreno. También disminuí ciertos lugares para darle forma a los picos, logrando un efecto natural sin perder la forma de la imagen anterior.
 ![image](https://github.com/user-attachments/assets/37f4a755-4b6d-4868-b642-57a842b7fa08)
 
 
