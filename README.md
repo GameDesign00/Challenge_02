@@ -11,6 +11,9 @@
 ![image](https://github.com/user-attachments/assets/9aa25a97-2ae5-4ecf-9678-900be108496e)
 ## Utilizando el pincel #3 de tamaño 50 con una opacidad de 70, empecé haciendo una silueta de la parte principal del terreno. Una vez trazada, tomé el pincel #8 para añadir un poco de rigidez a los alrededores de la parte principal. Debido a que estamos intentando simular un terreno real, este detalle hará que el terreno en Unity se vea más realista.
 ![image](https://github.com/user-attachments/assets/6d2738de-66c2-4706-856c-b7411158fae7)
+## Para darle mas detalle, los pinceles #8 y #9 me fueron muy utilies. Estos me permitieron darle un toque de caos al terreno, de tal modo que parezca natural sin perder la forma de la imagen anterior:
+![image](https://github.com/user-attachments/assets/37f4a755-4b6d-4868-b642-57a842b7fa08)
+
 
 # Parte IV: Colonización de Terrenos
 # Parte V: Memorias acerca de Kirby
