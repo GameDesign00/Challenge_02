@@ -16,7 +16,7 @@
 
 
 # Parte IV: Colonización de Terrenos
-# Parte V: Memorias acerca de Kirby
+# Parte V: Memorias o Historias Acerca de Kirby
 ## Sebastián Negrón: 
 ## "Kirby tiene un gran valor sentimental y nostálgico para mí, ya que el primer videojuego que jugué fue Kirby: Squeak Squad. Este juego me fascinó tanto que me sumergí por completo en la franquicia, disfrutando de títulos como Nightmare in Dreamland, Epic Yarn, Air Ride, y Triple Deluxe, entre otros. Sin embargo, mi favorito siempre será el remake que hicieron para el DS: Super Star Ultra. Todavía recuerdo las múltiples veces que salía del colegio, encendía mi DSi y jugaba Super Star Ultra para sacarle todo lo que el juego ofrecía. Ese juego fue, sin duda, el que más disfruté en mi Nintendo DSi. De hecho, recientemente me dio por buscar mi viejo DSi y el cartucho de Super Star Ultra para revisarlo y revivir esos momentos (imagen de abajo)."
 
