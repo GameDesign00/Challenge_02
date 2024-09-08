@@ -1,5 +1,6 @@
 # The Land of Kirby
 # Introducción
+## Para esta actividad, optamos por dividir las tareas. Jancarlos y Mayra se enfocaron en la creación de Kirby y sus prefabs, mientras que Sebastián se dedicó a crear el terreno que los Kirbys colonizarán.
 # Parte I: Creación del Personaje Principal
 # Parte II: Variedades de Kirby
 
