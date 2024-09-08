@@ -6,7 +6,7 @@
 
 # Parte III: Preparación del Terreno
 
-## La creación del terreno consiste en múltiples pasos. Primero comencé decidiendo qué parte del mapa de Puerto Rico me interesaba simular. Opté por elegir la siguiente área:
+## La creación del terreno consiste de múltiples pasos. Primero comencé decidiendo qué parte del mapa de Puerto Rico me interesaba simular. Opté por elegir la siguiente área:
 ![image](https://github.com/user-attachments/assets/101a173a-56fb-4c6f-8174-1e1003472b63)
 ## Una vez escogida, procedí a insertar el terreno en el proyecto utilizando la carpeta de Game Objects de Unity. Una vez insertado, ajusté las dimensiones y resolución del terreno según los criterios de la actividad. Este es el resultado:
 ![image](https://github.com/user-attachments/assets/9aa25a97-2ae5-4ecf-9678-900be108496e)
