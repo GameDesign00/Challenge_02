@@ -6,7 +6,7 @@
 # Parte III: Preparación del Terreno
 
 ## La creacion del terreno consiste de multiples pasos. Primero comence insertando el terreno en el proyecto. Esto se hace mediante la carpeta de Game Objects de Unity. Una vez insertado, ajuste las dimensiones del terreno segun los criterios de la actividad. Este es el resultado:
-![Screenshot (352)](https://github.com/user-attachments/assets/c17b02cc-8052-480b-b2ff-0363568e75b8)
+![image](https://github.com/user-attachments/assets/d0d60972-be1a-4b5c-8d6e-2c1551404164)
 
 # Parte IV: Colonización de Terrenos
 # Parte V: Memorias acerca de Kirby
