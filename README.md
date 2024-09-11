@@ -4,9 +4,34 @@
 # Parte I: Creación del Personaje Principal
 ![Screenshot 2024-09-11 020022](https://github.com/user-attachments/assets/fd6c64b4-2edb-4568-9718-b4b2e7024e68)
 ![Screenshot 2024-09-11 020538](https://github.com/user-attachments/assets/8927df9c-4980-4d93-97b3-96bfe60ba45f)
-El Kirby principal se compone de una esfera grande la cual es el cuerpo. Luego de detalles tiene dos brazos hechos con dos esferas de un tamaño mas reducido al de su cuerpo. La piernas estan hechas de dos capsulas una para cada pie la cual se aplanaron un poco para darle forma. Por ultimo la cara que se compone de dos capsulas como los ojo y una esfera aplanada como boca.
+## El Kirby principal se compone de una esfera grande la cual es el cuerpo. Luego de detalles tiene dos brazos hechos con dos esferas de un tamaño mas reducido al de su cuerpo. La piernas estan hechas de dos capsulas una para cada pie la cual se aplanaron un poco para darle forma. Por ultimo la cara que se compone de dos capsulas como los ojo y una esfera aplanada como boca.
 
 # Parte II: Variedades de Kirby
+## Para las variantes de Kirby se hicieron 6 los cuales son:
+
+## 1)Kirby Absorbiendo
+![Screenshot 2024-09-11 020042](https://github.com/user-attachments/assets/12234dc6-79a6-4797-bf0b-de53b354d29b)
+![Screenshot 2024-09-11 020641](https://github.com/user-attachments/assets/1f2316d8-c571-4b45-9e39-916826252ca6)
+
+## 2)Kirby Lleno
+![Screenshot 2024-09-11 020057](https://github.com/user-attachments/assets/515f453d-9aed-4951-9457-707cc5d485f3)
+![Screenshot 2024-09-11 020708](https://github.com/user-attachments/assets/7211cedb-7716-483f-a8af-360351cb4aa2)
+
+## 3)Kirby Chef
+![Screenshot 2024-09-11 020123](https://github.com/user-attachments/assets/90c438a1-9677-4e8b-9176-fbdf6bffff48)
+![Screenshot 2024-09-11 020740](https://github.com/user-attachments/assets/36e7f4f0-1ff1-4a34-a20c-e782afec8aa7)
+
+## 4)Kirby Mago
+![Screenshot 2024-09-11 020137](https://github.com/user-attachments/assets/4f85b72f-c79d-489e-bb1e-76daa4aa6d60)
+![Screenshot 2024-09-11 020757](https://github.com/user-attachments/assets/64a92f65-4580-47d2-902b-5a48475f0f5b)
+
+## 5)Kirby Espadachin
+![Screenshot 2024-09-11 020207](https://github.com/user-attachments/assets/16d58d0b-ce1d-49c6-b7d4-c29734b0c2f4)
+![Screenshot 2024-09-11 020816](https://github.com/user-attachments/assets/77e1ead9-fdfc-46d1-929d-1e0c8c21a146)
+
+## 6)Kirby Durmiendo
+![Screenshot 2024-09-11 020223](https://github.com/user-attachments/assets/c298f1a8-0f27-4ebc-8de6-0443bc237dff)
+![Screenshot 2024-09-11 020835](https://github.com/user-attachments/assets/0b366216-5421-48a8-aa9e-6d42f31d0e31)
 
 # Parte III: Preparación del Terreno
 
