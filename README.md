@@ -46,6 +46,7 @@
 
 # Parte IV: Colonización de Terrenos
 ![Screenshot 2024-09-11 015954](https://github.com/user-attachments/assets/c5bb429c-cf46-4df1-a457-c249c79c4038)
+![Screenshot 2024-09-11 015356](https://github.com/user-attachments/assets/3dc0a1e4-2619-45d5-9c0c-c39e2d954461)
 ![Screenshot 2024-09-11 015437](https://github.com/user-attachments/assets/e251e1ea-0bad-4eaa-abb1-f33f570a721f)
 ![Screenshot 2024-09-11 015503](https://github.com/user-attachments/assets/973f4b74-cc4f-4add-a9d4-98e71eb902a1)
 ![Screenshot 2024-09-11 022650](https://github.com/user-attachments/assets/a01349a6-38f0-4cd5-a9d7-41c69b1e0c01)
