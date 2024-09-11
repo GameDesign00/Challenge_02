@@ -44,8 +44,12 @@
 ## Para darle más detalle, agrandé el área principal y utilicé los pinceles #8 y #9 para añadir un toque de caos al terreno. También disminuí ciertos lugares para darle forma a los picos, logrando un efecto natural sin perder la forma de la imagen anterior.
 ![image](https://github.com/user-attachments/assets/37f4a755-4b6d-4868-b642-57a842b7fa08)
 
-
 # Parte IV: Colonización de Terrenos
+![Screenshot 2024-09-11 015954](https://github.com/user-attachments/assets/c5bb429c-cf46-4df1-a457-c249c79c4038)
+![Screenshot 2024-09-11 015437](https://github.com/user-attachments/assets/e251e1ea-0bad-4eaa-abb1-f33f570a721f)
+![Screenshot 2024-09-11 015503](https://github.com/user-attachments/assets/973f4b74-cc4f-4add-a9d4-98e71eb902a1)
+![Screenshot 2024-09-11 022650](https://github.com/user-attachments/assets/a01349a6-38f0-4cd5-a9d7-41c69b1e0c01)
+
 # Parte V: Memorias o Historias Acerca de Kirby
 ## Sebastián Negrón: 
 ## "Kirby tiene un gran valor sentimental y nostálgico para mí, ya que el primer videojuego que jugué fue Kirby: Squeak Squad. Este juego me fascinó tanto que me sumergí por completo en la franquicia, disfrutando de títulos como Nightmare in Dreamland, Epic Yarn, Air Ride, y Triple Deluxe, entre otros. Sin embargo, mi favorito siempre será el remake que hicieron para el DS: Super Star Ultra. Todavía recuerdo las múltiples veces que salía del colegio, encendía mi DSi y jugaba Super Star Ultra para sacarle todo lo que el juego ofrecía. Ese juego fue, sin duda, el que más disfruté en mi Nintendo DSi. De hecho, recientemente me dio por buscar mi viejo DSi y el cartucho de Super Star Ultra para revisarlo y revivir esos momentos (imagen de abajo)."
