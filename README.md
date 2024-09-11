@@ -62,3 +62,7 @@
 ![WhatsApp Image 2024-09-08 at 18 40 04_3b7b980b](https://github.com/user-attachments/assets/60ee40a6-ef19-44ee-ab48-1a0eb275f491)
 
 ## "A pesar de que los juegos de Kirby no son conocidos por su dificultad, la verdadera diversión radica en la inmersión que ofrecen. Los detalles como la música, el arte y las animaciones son lo que realmente me atrapan. Siempre que veo los fondos de los juegos de Kirby en el DS, me invade una profunda nostalgia y un deseo de poder estar en esos hermosos paisajes. Sin duda, Kirby es mi personaje favorito de las mascotas de Nintendo."
+
+## Jancarlos Gonzalez:
+## Kirby es un juego que pese a no ser de mis favoritos si es uno al cual le he dedicado sus horas. Ya que desde chiquto con la wii y la ds lo juego y luego cuando tuve la 3ds tambien lo jugue y ahora con la nintendo switch tambien jugue y pase los juegos de kirby que salieron para la misma. Kirby para mi es un juego para relajarte ya que su dificultad no es elevada, ademas de que cuenta con una paleta de colores muy llamativa ya que usa el rosa para distinguir a su protagonista y otros colores pasteles para el ambiente.
+![maxresdefault](https://github.com/user-attachments/assets/f8d152ca-9807-45ee-b552-d988144e141f)
