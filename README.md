@@ -4,7 +4,7 @@
 # Parte I: Creación del Personaje Principal
 ![Screenshot 2024-09-11 020022](https://github.com/user-attachments/assets/fd6c64b4-2edb-4568-9718-b4b2e7024e68)
 ![Screenshot 2024-09-11 020538](https://github.com/user-attachments/assets/8927df9c-4980-4d93-97b3-96bfe60ba45f)
-## El Kirby principal se compone de una esfera grande la cual es el cuerpo. Luego de detalles tiene dos brazos hechos con dos esferas de un tamaño mas reducido al de su cuerpo. La piernas estan hechas de dos capsulas una para cada pie la cual se aplanaron un poco para darle forma. Por ultimo la cara que se compone de dos capsulas como los ojo y una esfera aplanada como boca.
+## Para crear al Kirby principal se utilizó una esfera grande para que fuera su cuerpo. Luego se le hicieron dos brazos utilizando dos esferas de un tamaño reducido en comparación al de su cuerpo. La piernas estan hechas con dos cápsulas, una para cada pie, que fueron aplanadas un poco para darle forma. Por último, la cara que se compone de dos cápsulas (una por cada ojo) y una esfera aplanada como boca.
 
 # Parte II: Variedades de Kirby
 ## Para las variantes de Kirby se uso el principal como base para todos. En total se hicieron 6 variaciones de Kirby los cuales son:
