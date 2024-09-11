@@ -7,32 +7,36 @@
 ## El Kirby principal se compone de una esfera grande la cual es el cuerpo. Luego de detalles tiene dos brazos hechos con dos esferas de un tamaño mas reducido al de su cuerpo. La piernas estan hechas de dos capsulas una para cada pie la cual se aplanaron un poco para darle forma. Por ultimo la cara que se compone de dos capsulas como los ojo y una esfera aplanada como boca.
 
 # Parte II: Variedades de Kirby
-## Para las variantes de Kirby se hicieron 6 los cuales son:
+## Para las variantes de Kirby se uso el principal como base para todos. En total se hicieron 6 variaciones de Kirby los cuales son:
 
 ## 1)Kirby Absorbiendo
 ![Screenshot 2024-09-11 020042](https://github.com/user-attachments/assets/12234dc6-79a6-4797-bf0b-de53b354d29b)
 ![Screenshot 2024-09-11 020641](https://github.com/user-attachments/assets/1f2316d8-c571-4b45-9e39-916826252ca6)
+### Este Kirby intenta imitar la posicion que quirbi toma al absorber un enemigo. Para hacerlo solo se le cambiaron los ojos de angulo y la boca se amplio para intentar imiotar la sensacion se que tiene la boca abierta.
 
 ## 2)Kirby Lleno
 ![Screenshot 2024-09-11 020057](https://github.com/user-attachments/assets/515f453d-9aed-4951-9457-707cc5d485f3)
 ![Screenshot 2024-09-11 020708](https://github.com/user-attachments/assets/7211cedb-7716-483f-a8af-360351cb4aa2)
+### Este Kirby se basa en cuando Kirby despues de absorber un enemigo carga con el en su boca. Para lograrlo lo que se hizo fue añadir una capsula imitando los cachetes y sacar la boca que ya tenia un poco para afuera para que de esa sensacion de que realmente tiene la boca llena.
 
 ## 3)Kirby Chef
 ![Screenshot 2024-09-11 020123](https://github.com/user-attachments/assets/90c438a1-9677-4e8b-9176-fbdf6bffff48)
 ![Screenshot 2024-09-11 020740](https://github.com/user-attachments/assets/36e7f4f0-1ff1-4a34-a20c-e782afec8aa7)
+### Este Kirby imita a Kirby con su abilidad llamada cook la cual es una que le da aspecto de chef. Para lograrlo se le añadio un sombrero hecho de un cilindro y luego en la copa se le añadieron unas esferas para que asi simile el gorro que usa en los juegos, tambien se le añadio un sarten que para hacerlo se hizo con un cilindro como mango y otro como si fuera la sarten.
 
 ## 4)Kirby Mago
 ![Screenshot 2024-09-11 020137](https://github.com/user-attachments/assets/4f85b72f-c79d-489e-bb1e-76daa4aa6d60)
 ![Screenshot 2024-09-11 020757](https://github.com/user-attachments/assets/64a92f65-4580-47d2-902b-5a48475f0f5b)
-
+ ### Este Kirby se basa en Kirby mago el cual usa un sombrero de copa ademas de que porta cartas. Para realizar este Kirby se le dio un sombrero de copa con un cilindro como gorro y otro en la base para dar el efecto de sombrero de copa, ademas de la carta la cual se hizo con un cuadrado y una varita que se compone de un cilindro como mango y en la punta una esfera.
+ 
 ## 5)Kirby Espadachin
 ![Screenshot 2024-09-11 020207](https://github.com/user-attachments/assets/16d58d0b-ce1d-49c6-b7d4-c29734b0c2f4)
 ![Screenshot 2024-09-11 020816](https://github.com/user-attachments/assets/77e1ead9-fdfc-46d1-929d-1e0c8c21a146)
-
+### Este Kirby se basa en Kirby espadachin el cual usa un gorrito y una espada. Para realizar hacer este Kirby se le dio una espada compuesta de cilindros, cuadrados y esferas. El cilindro se utilizo para hacer el mango de la espada los cuadrados se utilizaron para darle el largo a la espada y otro se giro de tal manera que imite la punta de la espada y la esfera se uso para darle detalle a la espada. El gorrito se creo con una esfera, un cuadrado y una capsula, la capsula se uso para recrear el sombrero y el cuadrado girandolo se intento imitar la punta del mismo y la esfera fue para el detalle de un pompo en la gorra
 ## 6)Kirby Durmiendo
 ![Screenshot 2024-09-11 020223](https://github.com/user-attachments/assets/c298f1a8-0f27-4ebc-8de6-0443bc237dff)
 ![Screenshot 2024-09-11 020835](https://github.com/user-attachments/assets/0b366216-5421-48a8-aa9e-6d42f31d0e31)
-
+### Este Kirby se basa en Kirby cuando duerme. Para lograr este Kirby ademas de usar el principal tambien se le copio el gorro al kirby espadachin para luego cambiarle la cara para imitar que esta durmiendo ademas de añadir unas esferas imitando unas burbujas de sueño.
 # Parte III: Preparación del Terreno
 
 ## La creación del terreno consiste de múltiples pasos. Primero comencé decidiendo qué parte del mapa de Puerto Rico me interesaba simular. Opté por elegir la siguiente área:
