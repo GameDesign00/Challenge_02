@@ -68,3 +68,8 @@
 ## Jancarlos Gonzalez:
 ## Kirby es un juego que pese a no ser de mis favoritos si es uno al cual le he dedicado sus horas. Ya que desde chiquto con la wii y la ds lo juego y luego cuando tuve la 3ds tambien lo jugue y ahora con la nintendo switch tambien jugue y pase los juegos de kirby que salieron para la misma. Kirby para mi es un juego para relajarte ya que su dificultad no es elevada, ademas de que cuenta con una paleta de colores muy llamativa ya que usa el rosa para distinguir a su protagonista y otros colores pasteles para el ambiente.
 ![maxresdefault](https://github.com/user-attachments/assets/f8d152ca-9807-45ee-b552-d988144e141f)
+
+## Mayra Lago
+
+Durante este reto pude poner en práctica el material que aprendí en clase sobre la creación de prefabs y la jerarquía de elementos. Pues este conocimiento fue necesario para crear las diferentes variantes y colocar sus partes de manera simétrica. Además de que fue interesante crear Kirbys con cierta limitación a la hora de seleccionar figuras, por lo que el uso de la creatividad fue muy necesario en este trabajo.
+
