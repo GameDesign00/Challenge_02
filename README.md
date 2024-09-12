@@ -32,12 +32,13 @@
 ## 5) Kirby Espadachín
 ![Screenshot 2024-09-11 020207](https://github.com/user-attachments/assets/16d58d0b-ce1d-49c6-b7d4-c29734b0c2f4)
 ![Screenshot 2024-09-11 020816](https://github.com/user-attachments/assets/77e1ead9-fdfc-46d1-929d-1e0c8c21a146)
-### Este Kirby se un espadachín que usa un gorrito y sostiene una espada. Para realizar hacer este Kirby se creó una espada compuesta de cilindros, cuadrados y esferas. El cilindro se utilizo para hacer el mango de la espada, los cuadrados se utilizaron para darle el largo a la espada y otro se giró para hacer la punta de la espada. Por último, la esfera se utilizó para darle detalle a la espada. El gorrito se creó con una esfera, un cuadrado y una cápsula. La cápsula se usó para recrear el sombrero y el cuadrado se giró para hacer la punta. También se empleó una esfera para el detalle de un pompom en la gorra.
+### Este Kirby se un espadachín que usa un gorrito y sostiene una espada. Para realizar hacer este Kirby se creó una espada compuesta de cilindros, cuadrados y esferas. El cilindro se utilizo para hacer el mango de la espada, los cuadrados se utilizaron para darle el largo a la espada y otro se giró para hacer la punta de la espada. Por último, la esfera se utilizó para darle detalle a la espada. El gorrito se creó con una esfera, un cuadrado y una cápsula. La cápsula se usó para recrear el sombrero y el cuadrado se giró para hacer la punta. También se empleó una esfera para el detalle de un pompón en la gorra.
 
 ## 6) Kirby Durmiendo
 ![Screenshot 2024-09-11 020223](https://github.com/user-attachments/assets/c298f1a8-0f27-4ebc-8de6-0443bc237dff)
 ![Screenshot 2024-09-11 020835](https://github.com/user-attachments/assets/0b366216-5421-48a8-aa9e-6d42f31d0e31)
-### Este Kirby se basa en Kirby cuando duerme. Para lograr este Kirby ademas de usar el principal tambien se le copio el gorro al kirby espadachin para luego cambiarle la cara para imitar que esta durmiendo ademas de añadir unas esferas imitando unas burbujas de sueño.
+### Este Kirby es un Kirby durmiendo. Para lograr este Kirby además de usar el principal, también se le copió el gorro al Kirby espadachín, para luego cambiarle la cara para hacer una expresión que refleje que está durmiendo. Aunque también se le añadieron unas esferas imitando unas burbujas de sueño.
+
 # Parte III: Preparación del Terreno
 
 ## La creación del terreno consiste de múltiples pasos. Primero comencé decidiendo qué parte del mapa de Puerto Rico me interesaba simular. Opté por elegir la siguiente área:
