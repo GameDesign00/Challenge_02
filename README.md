@@ -32,7 +32,7 @@
 ## 5) Kirby Espadachín
 ![Screenshot 2024-09-11 020207](https://github.com/user-attachments/assets/16d58d0b-ce1d-49c6-b7d4-c29734b0c2f4)
 ![Screenshot 2024-09-11 020816](https://github.com/user-attachments/assets/77e1ead9-fdfc-46d1-929d-1e0c8c21a146)
-### Este Kirby se un espadachín que usa un gorrito y sostiene una espada. Para realizar hacer este Kirby se creó una espada compuesta de cilindros, cuadrados y esferas. El cilindro se utilizo para hacer el mango de la espada, los cuadrados se utilizaron para darle el largo a la espada y otro se giró para hacer la punta de la espada. Por último, la esfera se utilizó para darle detalle a la espada. El gorrito se creó con una esfera, un cuadrado y una cápsula. La cápsula se usó para recrear el sombrero y el cuadrado se giró para hacer la punta. También se empleó una esfera para el detalle de un pompón en la gorra.
+### Este Kirby es un espadachín que usa un gorrito y sostiene una espada. Para realizar hacer este Kirby se creó una espada compuesta de cilindros, cuadrados y esferas. El cilindro se utilizo para hacer el mango de la espada, los cuadrados se utilizaron para darle el largo a la espada y otro se giró para hacer la punta de la espada. Por último, la esfera se utilizó para darle detalle a la espada. El gorrito se creó con una esfera, un cuadrado y una cápsula. La cápsula se usó para recrear el sombrero y el cuadrado se giró para hacer la punta. También se empleó una esfera para el detalle de un pompón en la gorra.
 
 ## 6) Kirby Durmiendo
 ![Screenshot 2024-09-11 020223](https://github.com/user-attachments/assets/c298f1a8-0f27-4ebc-8de6-0443bc237dff)
