@@ -27,7 +27,7 @@
 ## 4) Kirby Mago
 ![Screenshot 2024-09-11 020137](https://github.com/user-attachments/assets/4f85b72f-c79d-489e-bb1e-76daa4aa6d60)
 ![Screenshot 2024-09-11 020757](https://github.com/user-attachments/assets/64a92f65-4580-47d2-902b-5a48475f0f5b)
- ### Este Kirby se basa en Kirby mago el cual usa un sombrero de copa ademas de que porta cartas. Para realizar este Kirby se le dio un sombrero de copa con un cilindro como gorro y otro en la base para dar el efecto de sombrero de copa, ademas de la carta la cual se hizo con un cuadrado y una varita que se compone de un cilindro como mango y en la punta una esfera.
+ ### Este Kirby es un mago, usa un sombrero de copa y sostiene una carta. Para realizar este Kirby se le dió un sombrero de copa creado con un cilindro como gorro y otro en la base. Además de la carta, que se hizo con un cuadrado, tiene una varita que se compone de un cilindro como mango y en la punta una esfera.
  
 ## 5) Kirby Espadachin
 ![Screenshot 2024-09-11 020207](https://github.com/user-attachments/assets/16d58d0b-ce1d-49c6-b7d4-c29734b0c2f4)
