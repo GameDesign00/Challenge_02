@@ -71,5 +71,11 @@
 
 ## Mayra Lago
 
+## Conocimiento aprendido
 ## Durante este reto pude poner en práctica el material que aprendí en clase sobre la creación de prefabs y la jerarquía de elementos. Pues este conocimiento fue necesario para crear las diferentes variantes y colocar sus partes de manera simétrica, pues si se movía el cuerpo el resto de extremidades también debían moverse o ajustarse. Además de que fue interesante crear Kirbys con cierta limitación a la hora de seleccionar figuras, por lo que el uso de la creatividad fue muy necesario en este trabajo.
+
+## Experiencia con juegos de Kirby
+
+## He tenido experiencias positivas jugando títulos de la franquicia de Kirby. Pues tanto el mundo como los personajes tienen un aspecto bastante llamativo. Aunque uno de los juegos de Kirby que más me gustó fue Team Kirby Clash Deluxe. Donde tienes que formar un equipo de cuatro Kirbys para derrotar a los enemigos. Cada Kirby puede ser un espadachín, un hechicero (que realiza curaciones), un señor del rayo (que detiene el tiempo cada cierta cantidad de ataques) o puede tener un mazo. Considero que uno de los aspectos que lo hizo divertido fue el modo multijugador, donde cada jugador podía controlar un Kirby.
+
 
