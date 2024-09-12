@@ -66,6 +66,10 @@
 ## "A pesar de que los juegos de Kirby no son conocidos por su dificultad, la verdadera diversión radica en la inmersión que ofrecen. Los detalles como la música, el arte y las animaciones son lo que realmente me atrapan. Siempre que veo los fondos de los juegos de Kirby en el DS, me invade una profunda nostalgia y un deseo de poder estar en esos hermosos paisajes. Sin duda, Kirby es mi personaje favorito de las mascotas de Nintendo."
 
 ## Jancarlos Gonzalez:
+
+## Conocimiento aprendido
+## Gracias a este reto pude reforzar el conocimiento aprendido en clase y mejorar mis habilidades con el modelado de cosas. Ademas del uso de prefabs para la creacion de diferentes personajes usando una misma base para facilitar el desarrollo. Tambien mejore el uso de objetos vacios para facilitar el movimiento de las cosas, como en este caso la espada de Kirby que esta sobre un objeto vacio para asi poderla tabajar aparte y luego ponersela al personaje.
+## Experiencia con los juegos de Kirby
 ## Kirby es un juego que pese a no ser de mis favoritos si es uno al cual le he dedicado sus horas. Ya que desde chiquto con la wii y la ds lo juego y luego cuando tuve la 3ds tambien lo jugue y ahora con la nintendo switch tambien jugue y pase los juegos de kirby que salieron para la misma. Kirby para mi es un juego para relajarte ya que su dificultad no es elevada, ademas de que cuenta con una paleta de colores muy llamativa ya que usa el rosa para distinguir a su protagonista y otros colores pasteles para el ambiente.
 ![maxresdefault](https://github.com/user-attachments/assets/f8d152ca-9807-45ee-b552-d988144e141f)
 
@@ -75,7 +79,6 @@
 ## Durante este reto pude poner en práctica el material que aprendí en clase sobre la creación de prefabs y la jerarquía de elementos. Pues este conocimiento fue necesario para crear las diferentes variantes y colocar sus partes de manera simétrica, pues si se movía el cuerpo el resto de extremidades también debían moverse o ajustarse. Además de que fue interesante crear Kirbys con cierta limitación a la hora de seleccionar figuras, por lo que el uso de la creatividad fue muy necesario en este trabajo.
 
 ## Experiencia con juegos de Kirby
-
 ## He tenido experiencias positivas jugando títulos de la franquicia de Kirby. Pues tanto el mundo como los personajes tienen un aspecto bastante llamativo. Aunque uno de los juegos de Kirby que más me gustó fue Team Kirby Clash Deluxe. Donde tienes que formar un equipo de cuatro Kirbys para derrotar a los enemigos. Cada Kirby puede ser un espadachín, un hechicero (que realiza curaciones), un señor del rayo (que detiene el tiempo cada cierta cantidad de ataques) o puede tener un mazo. Considero que uno de los aspectos que lo hizo divertido fue el modo multijugador, donde cada jugador podía controlar un Kirby.
 
 
