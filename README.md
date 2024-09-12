@@ -16,7 +16,7 @@
 
 ## 2) Kirby Lleno
 ![Screenshot 2024-09-11 020057](https://github.com/user-attachments/assets/515f453d-9aed-4951-9457-707cc5d485f3)
-![Screenshot 2024-09-11 020708](https://github.com/user-attachments/assets/7211cedb-7716-483f-a8af-360351cb4aa2)
+![Screenshot 2024-09-11 020708](https://github.com/user-attachments/assets/dd7514ef-10b3-463b-a3d7-ecfae525f4d8)
 ### Este Kirby acaba de absorber un enemigo y carga con él en su boca, al igual que en sus juegos. Para lograrlo se añadió una cápsula imitando sus mejillas y se reacomodó la boca que ya tenía, para que parezca que realmente tiene la boca llena.
 
 ## 3) Kirby Chef
