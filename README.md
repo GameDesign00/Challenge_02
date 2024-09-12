@@ -71,5 +71,5 @@
 
 ## Mayra Lago
 
-## Durante este reto pude poner en práctica el material que aprendí en clase sobre la creación de prefabs y la jerarquía de elementos. Pues este conocimiento fue necesario para crear las diferentes variantes y colocar sus partes de manera simétrica. Además de que fue interesante crear Kirbys con cierta limitación a la hora de seleccionar figuras, por lo que el uso de la creatividad fue muy necesario en este trabajo.
+## Durante este reto pude poner en práctica el material que aprendí en clase sobre la creación de prefabs y la jerarquía de elementos. Pues este conocimiento fue necesario para crear las diferentes variantes y colocar sus partes de manera simétrica, pues si se movía el cuerpo el resto de extremidades también debían moverse o ajustarse. Además de que fue interesante crear Kirbys con cierta limitación a la hora de seleccionar figuras, por lo que el uso de la creatividad fue muy necesario en este trabajo.
 
